@@ -1,0 +1,3 @@
+CHROM	POS	REF	ALT	Type	Transcript	Protein Location	Ref AA	Alt AA
+Pf3D7_10_v3	1468717	C	A	Non-synonymous	PF3D7_1037000.1	1948	T	N
+Pf3D7_10_v3	1509783	G	T	Non-synonymous	PF3D7_1038100.1	248	P	T
